@@ -33,6 +33,8 @@ first -(file) or d(directory)
  9 letters 3 rwx combo
  first for user second for group third for other
  r - read
+ 
+
  w - edit(write)
  x - execute
 
@@ -76,3 +78,10 @@ grep - find patterns in data
 
 kill PID - kill process wih id
 kill -9 PID - kill immediately
+
+## Git Collaboration
+![FireShot Capture 001 - Introduction to Git and GitHub — Collaboration - Coursera - www coursera org](https://user-images.githubusercontent.com/18643300/183392665-fa065c62-2905-42eb-8fe5-39fa67c7d8de.png)
+<img width="473" alt="Снимок экрана 2022-08-08 125631" src="https://user-images.githubusercontent.com/18643300/183392710-ae3037fe-3bf7-463e-afc8-af0302349e7b.png">
+
+Пока хочется практики, кейсы обсуждаются на курсере практичные, на https://learngitbranching.js.org/ есть практика но она воображаемая, такой интерфейс вживую не встретишь насколько я знаю. Так что двигаемся дальше )
+
