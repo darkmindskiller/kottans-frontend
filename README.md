@@ -93,3 +93,6 @@ kill -9 PID - kill immediately
 ## Responsive Web Design
 Видео по флексам и упражнения ок, возможно потому что раньше проходил, Гридам бы больше практики добавил, теории маловато а штука важная
 
+## HTML & CSS Practice
+[Demo](https://darkmindskiller.github.io/popup_homework/) | [Code base](https://github.com/darkmindskiller/popup_homework)
+
