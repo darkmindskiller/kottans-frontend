@@ -96,3 +96,7 @@ kill -9 PID - kill immediately
 ## HTML & CSS Practice
 [Demo](https://darkmindskiller.github.io/popup_homework/) | [Code base](https://github.com/darkmindskiller/popup_homework)
 
+
+## JS Basics
+Maybe make less big blocks for it, took 3 weeks to complete. A lot of theory but a little bit of practice is not functional on my oppinion.
+
