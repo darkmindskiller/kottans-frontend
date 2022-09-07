@@ -100,3 +100,9 @@ kill -9 PID - kill immediately
 ## JS Basics
 Maybe make less big blocks for it, took 3 weeks to complete. A lot of theory but a little bit of practice is not functional on my oppinion.
 
+## DOM
+<img width="421" alt="dom_lectures" src="https://user-images.githubusercontent.com/18643300/188945745-7c6ed9af-8873-4198-8e7b-9a50ae5d7835.png">
+
+[Demo](https://darkmindskiller.github.io/dom_homework/) | [Code base](https://github.com/darkmindskiller/dom_homework)
+
+
